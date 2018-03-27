@@ -22,3 +22,13 @@ Link to my portfolio [carlosbaston.com](http://carlosbaston.com)
 
 ![VPA Site](http://carlosbaston.com/assets/img/vegaspoolaction-mobile+pc.png "Vegas Pool Action")
 
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+http://carlosbaston.com/assets/img/simplysolpaella-mobile+pc.png
+
+line break --
+Another line break --
+
+And another break --
+
+
