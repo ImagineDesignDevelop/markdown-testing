@@ -43,5 +43,5 @@ class Person
     
 }
 
-$bar = new Person('Carlos', 35);
+$person = new Person('Carlos', 35);
 ```
