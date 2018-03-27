@@ -26,8 +26,18 @@
 Link to my portfolio [carlosbaston.com](http://carlosbaston.com)
 
 ---
+
 My favorite quote
 > Knowledge is key
+
+---
+
+Simple markdown table
+
+name | address | city | state
+--- | --- | ---
+James Johnson | 123 Street Name | Atlanta | GA
+Walter White | 5412 Cactus Lane | Alburquerque | NM
 
 ---
 
