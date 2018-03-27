@@ -8,4 +8,15 @@
 2. Another list item
 3. And another
 
-[Link to carlosbaston.com](http://carlosbaston.com)
+* Ordered list item
+* Another ordered list item
+* And another ordered list item
+
+Link to my portfolio [carlosbaston.com](http://carlosbaston.com)
+
+*Italic text*
+
+**Bold test**
+
+~~Strike through text~~
+
