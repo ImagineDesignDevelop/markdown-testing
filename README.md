@@ -35,7 +35,7 @@ My favorite quote
 Simple markdown table
 
 name | address | city | state
---- | --- | ---
+--- | --- | --- | ---
 James Johnson | 123 Street Name | Atlanta | GA
 Walter White | 5412 Cactus Lane | Alburquerque | NM
 
