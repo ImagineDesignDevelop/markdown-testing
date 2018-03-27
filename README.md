@@ -1,12 +1,4 @@
 
-![Carlos Baston](http://carlosbaston.com/assets/img/profile.jpg "Carlos Baston")
-
-```
-![Carlos Baston](http://carlosbaston.com/assets/img/profile.jpg "Carlos Baston")
-```
-
----
-
 # Heading 1
 
 ```
@@ -128,6 +120,14 @@ class Person
 }
 
 $person = new Person('Carlos', 35);
+```
+
+---
+
+![Carlos Baston](http://carlosbaston.com/assets/img/profile.jpg "Carlos Baston")
+
+```
+![Carlos Baston](http://carlosbaston.com/assets/img/profile.jpg "Carlos Baston")
 ```
 
 ---
