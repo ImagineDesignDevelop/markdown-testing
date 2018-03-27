@@ -1,17 +1,25 @@
 
 # Heading 1
 
-```text
+```
 # Heading 1
 ```
 
 ---
 
-## Second Heading
+## Heading 2
+
+```
+# Heading 2
+```
 
 ---
 
-### Third Heading
+### Heading 3
+
+```
+# Heading 3
+```
 
 ---
 
@@ -19,29 +27,53 @@
 2. Another list item
 3. And another
 
+```
+1. List item
+2. Another list item
+3. And another
+```
+
 ---
 
 * Ordered list item
 * Another ordered list item
 * And another ordered list item
 
+```text
+* Ordered list item
+* Another ordered list item
+* And another ordered list item
+```
+
 ---
 
 Link to my portfolio [carlosbaston.com](http://carlosbaston.com)
 
+```
+Link to my portfolio [carlosbaston.com](http://carlosbaston.com)
+```
+
 ---
 
-My favorite quote
+> This is a quote
+
+```
 > Knowledge is key
+```
 
 ---
-
-Simple markdown table
 
 name | address | city | state
 --- | --- | --- | ---
 James Johnson | 123 Street Name | Atlanta | GA
 Walter White | 5412 Cactus Lane | Alburquerque | NM
+
+```
+name | address | city | state
+--- | --- | --- | ---
+James Johnson | 123 Street Name | Atlanta | GA
+Walter White | 5412 Cactus Lane | Alburquerque | NM
+```
 
 ---
 
@@ -51,12 +83,25 @@ Walter White | 5412 Cactus Lane | Alburquerque | NM
 
 ~~Strike through text~~
 
+```
+*Italic text*
+
+**Bold test**
+
+~~Strike through text~~
+```
+
 ---
 
 http://carlosbaston.com/assets/img/simplysolpaella-mobile+pc.png
 
+```
+http://carlosbaston.com/assets/img/simplysolpaella-mobile+pc.png
+```
+
 ---
 
+syntax highlighting
 
 ```php
 class Person
@@ -80,5 +125,9 @@ $person = new Person('Carlos', 35);
 ---
 
 ![VPA Site](http://carlosbaston.com/assets/img/vegaspoolaction-mobile+pc.png "Vegas Pool Action")
+
+```
+![VPA Site](http://carlosbaston.com/assets/img/vegaspoolaction-mobile+pc.png "Vegas Pool Action")
+```
 
 ---
