@@ -26,6 +26,10 @@
 Link to my portfolio [carlosbaston.com](http://carlosbaston.com)
 
 ---
+My favorite quote
+> Knowledge is key
+
+---
 
 *Italic text*
 
