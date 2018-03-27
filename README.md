@@ -20,3 +20,5 @@ Link to my portfolio [carlosbaston.com](http://carlosbaston.com)
 
 ~~Strike through text~~
 
+![VPA Site](http://carlosbaston.com/assets/img/vegaspoolaction-mobile+pc.png "Vegas Pool Action")
+
