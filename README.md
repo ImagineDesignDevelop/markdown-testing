@@ -133,3 +133,19 @@ $person = new Person('Carlos', 35);
 ---
 
 [![Scotch Box](http://img.youtube.com/vi/Do4w6rEyDcw/0.jpg)](http://www.youtube.com/watch?v=Do4w6rEyDcw)
+
+```
+[![Scotch Box](http://img.youtube.com/vi/Do4w6rEyDcw/0.jpg)](http://www.youtube.com/watch?v=Do4w6rEyDcw)
+```
+
+---
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Do4w6rEyDcw
+" target="_blank"><img src="http://img.youtube.com/vi/Do4w6rEyDcw/0.jpg" 
+alt="Scotch Box" width="240" height="180" border="10" /></a>
+
+```html
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Do4w6rEyDcw
+" target="_blank"><img src="http://img.youtube.com/vi/Do4w6rEyDcw/0.jpg" 
+alt="Scotch Box" width="240" height="180" border="10" /></a>
+```
