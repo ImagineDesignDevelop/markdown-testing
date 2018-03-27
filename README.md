@@ -124,10 +124,10 @@ $person = new Person('Carlos', 35);
 
 ---
 
-![VPA Site](http://carlosbaston.com/assets/img/vegaspoolaction-mobile+pc.png "Vegas Pool Action")
+![Smiley Face](https://www.digitec.ch/de/s1/product/slipmats-smiley-doppelpack-slipmat-224318 "Smiley Face")
 
 ```
-![VPA Site](http://carlosbaston.com/assets/img/vegaspoolaction-mobile+pc.png "Vegas Pool Action")
+![Smiley Face](https://www.digitec.ch/de/s1/product/slipmats-smiley-doppelpack-slipmat-224318 "Smiley Face")
 ```
 
 ---
